@@ -27,3 +27,9 @@ class CustomGamepad(Gamepad.Gamepad):
 ```
 
 Technically the buttons on the MSX are labeled I and II, but I figured A and B would be more readable. A, of course, maps to button I and B to II. You can rename them if you wish, but you'll need to make sure the logic in the main loop below is looking for the right button and/or axis events.
+
+# Schematic
+
+![schematic](usbjs-to-msx_schematic.png)
+
+I'm using a Raspberry Pi Zero as an example here, but you could easily use any SBC that has user programmable GPIO pins.
