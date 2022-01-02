@@ -33,3 +33,16 @@ Technically the buttons on the MSX are labeled I and II, but I figured A and B w
 ![schematic](usbjs-to-msx_schematic.png)
 
 I'm using a Raspberry Pi Zero as an example here, but you could easily use any SBC that has user programmable GPIO pins.
+
+# Compatibility
+
+According to the [MSX Wiki](https://www.msx.org/wiki/General_Purpose_port#Compatibility), this project should be compatible with the following computers:
+
+* Fully Compatible
+    * Amstrad CPC-464
+    * Fujitsu FM-77 / FM Towns
+    * NEC PC-88
+    * Sharp X1 / X68000
+* Partially Compatible
+    * Atari 400/800/2600 (single button only)
+    * SEGA SG-1000, Mark III and Master System (single button only)
