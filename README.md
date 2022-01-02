@@ -1,6 +1,6 @@
 # GAMEPADtoMSX
 ## by Ethan Moody
-(Gamepad.py library by PiBorg)
+(Gamepad.py library by [PiBorg](https://github.com/PiBorg))
 
 # Getting Started
 
