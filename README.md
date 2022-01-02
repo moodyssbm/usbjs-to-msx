@@ -1,4 +1,4 @@
-# GAMEPADtoMSX
+# USB JoyStick to MSX
 ## by Ethan Moody
 (Gamepad.py library by [PiBorg](https://github.com/PiBorg))
 
